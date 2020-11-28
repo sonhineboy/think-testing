@@ -1,11 +1,10 @@
 {
-    "name": "topthink/think-testing",
+    "name": "sonhineboy/think-testing",
     "license": "Apache-2.0",
     "type": "think-testing",
     "authors": [
         {
-            "name": "yunwuxin",
-            "email": "448901948@qq.com"
+            "name": "sonhineboy"
         }
     ],
     "require": {
